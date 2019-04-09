@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>I`m Razeen</title>
+  
+  <subtitle>Stay hungry, Stay foolish.</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://razeencheng.com/"/>
+  <updated>2019-04-09T16:32:08.201Z</updated>
+  <id>http://razeencheng.com/</id>
+  
+  <author>
+    <name>Razeen</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title></title>
+    <link href="http://razeencheng.com/about/"/>
+    <id>http://razeencheng.com/about/</id>
+    <published>2019-04-01T04:00:47.000Z</published>
+    <updated>2019-04-09T16:32:08.201Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to Razeen`s homepage.</p><h2 id="About-me"><a href="#About-me" class="headerlink" title="About me"></a>About me</h2><p>My name is ChengJin, I use @Razeen and @RazeenCheng on web. I’m a gopher. Currently I’m working  for a company about information security.</p><h2 id="Links"><a href="#Links" class="headerlink" title="Links"></a>Links</h2><p><a href="https://razeencheng.com">Here is my blog</a>. </p><h2 id="Contacts"><a href="#Contacts" class="headerlink" title="Contacts"></a>Contacts</h2><p>You can find me on <a href="https://twitter.com/razeencheng" target="_blank" rel="noopener">Twitter</a>.</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to Razeen`s homepage.&lt;/p&gt;
+&lt;h2 id=&quot;About-me&quot;&gt;&lt;a href=&quot;#About-me&quot; class=&quot;headerlink&quot; title=&quot;About me&quot;&gt;&lt;/a&gt;About me&lt;/h2&gt;&lt;p&gt;My name i
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
